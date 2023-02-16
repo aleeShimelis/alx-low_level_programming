@@ -1,6 +1,6 @@
 #include <stdlib.h>
 #include <time.h>
-#include <time.h>
+#include <stdio.h>
 
 /**
  * main - C program that checks last digit of number n
